@@ -9,8 +9,8 @@ repositories {
 }
 
 dependencies {
-    implementation 'org.apache.commons:commons-lang3:3.12.0'
-    testImplementation 'junit:junit:4.13'
+    implementation "org.apache.commons:commons-lang3:3.12.0"
+    testImplementation "junit:junit:4.13"
 }
 test {
     useJUnit()
